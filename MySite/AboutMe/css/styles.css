@@ -1,0 +1,25 @@
+body
+{
+  background-color: #EAF6F6;
+}
+hr
+{
+  background-color: none;
+  border-style: dotted none none;
+  height: 0px;
+  width: 5%;
+  color: gray;
+  border-width: 5px;
+}
+h1, h2, h3, h4, h5, h6
+{
+  color: #61BFBF
+}
+h1:hover,h3:hover
+{
+  color: gray;
+}
+.circular
+{
+  border-radius: 50%;
+}
